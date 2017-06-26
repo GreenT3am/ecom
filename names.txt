@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Kristian
 Ivan(is the BEST)
 Ivan(is the best)
@@ -9,7 +8,8 @@ Koychev
 Tina
 Tsvetomir
 W1w1w1w
-Boza/Koza
+Boza/Koza/Sarma
+
 
 
 
@@ -19,5 +19,6 @@ wodicaaaa
 
 asdasdasdas
 asdasdasd
+
 
 
