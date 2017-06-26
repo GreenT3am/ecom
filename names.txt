@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 Kristian
 Ivan(is the BEST)
 Ivan(is the best)
 asd
-=======
->>>>>>> master
-
+asdwe
 Kristian
 Ivan
 Koychev
