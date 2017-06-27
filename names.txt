@@ -5,18 +5,8 @@ added something
 
 more text
 
-<<<<<<< HEAD
+
 asdasd
 krasimir added something
 
-
-
-
-
-
-=======
-krasimir added something
-
-
 Didkogabaritko
->>>>>>> 5496adebf85347818818c3ee855f4de62452a577
