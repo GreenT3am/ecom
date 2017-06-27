@@ -1,12 +1,1 @@
-Di                       lqn
-I                                                 van
-Kra                                imir
-Kristian
-<<<<<<< HEAD
-Rado                             stina
-Tsv                       etomir
-=======
-Radostina
-Tsvetomir
-#rrrrmonday
->>>>>>> d12b65762ca27993a898ae57dbe00743af870f3e
+GIT GUD
