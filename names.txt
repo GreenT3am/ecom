@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pull request
 
 added something
@@ -11,3 +12,11 @@ Didkogabaritko
 
 #hashtag #hungry #tenminutes
 
+=======
+Dilqn
+Ivan
+Krasimir
+Kristian
+Radostina
+Tsvetomir
+>>>>>>> 26cf316... fixed!
