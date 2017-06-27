@@ -1,9 +1,1 @@
-The one and only
-GIT GUD
-:&:&:&
-
-<<<<<<< HEAD
-=======
-dafuq
-
->>>>>>> 7de386b... Merge pull request #21 from GreenT3am/krasimirbranch
+Muhahahahahahaha
