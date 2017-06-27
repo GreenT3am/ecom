@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Di                       lqn
 I                                                 van
@@ -8,6 +9,8 @@ Tsv                       etomir
 Radostina
 Tsvetomir
 #rrrrmonday
+The one and only
 GIT GUD
-
 :&:&:&
+
+
